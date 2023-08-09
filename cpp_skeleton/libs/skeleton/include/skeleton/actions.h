@@ -9,7 +9,6 @@
 #include <fmt/ostream.h>
 
 
-
 namespace pokerbots::skeleton {
 
 struct Action {
